@@ -1,22 +1,23 @@
 # Hi 👋 I'm Ajith Shiva Devarakonda
 
 ## 👨‍💻 About Me
-Software Test Engineer with experience in Manual Testing and Automation Testing.
-Skilled in building Selenium automation frameworks and API automation using Rest Assured.
+Software Test Engineer with 1+ year of experience in Manual Testing and Automation Testing.
 
-Passionate about delivering high-quality, bug-free applications through structured testing practices.
+Strong experience in Selenium WebDriver with Java and building structured automation frameworks using TestNG and Page Object Model (POM). Good understanding of SDLC, STLC, and Defect Life Cycle.
+
+Focused on delivering high-quality, reliable, and well-tested applications.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 🔹 Manual Testing
-- Test Case Design
-- Bug Reporting (Severity & Priority)
-- Regression Testing
-- Smoke Testing
-- RTM Preparation
+- Requirement Analysis
+- Test Case Design & Execution
 - Test Plan & Test Summary Reports
+- Regression, Smoke & Sanity Testing
+- RTM Preparation
+- Defect Reporting & Tracking
 
 ### 🔹 Automation Testing
 - Java
@@ -25,12 +26,12 @@ Passionate about delivering high-quality, bug-free applications through structur
 - Page Object Model (POM)
 - Maven
 - Data-Driven Testing
+- Basic Framework Design
 
 ### 🔹 API Testing
 - Postman
-- Rest Assured
-- GET, POST, PUT, DELETE
-- JSON Path Validation
+- Basic Rest Assured
+- CRUD Operations (GET, POST, PUT, DELETE)
 - Status Code & Response Validation
 
 ### 🔹 Database
@@ -40,35 +41,34 @@ Passionate about delivering high-quality, bug-free applications through structur
 - Git & GitHub
 - Eclipse
 - Maven
-- Chrome DevTools
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Selenium Automation Framework
-- Built using Java + Selenium + TestNG
-- Implemented Page Object Model
-- Integrated Maven for build management
-- Added reusable base classes and utilities
+- Developed automation framework using Java + Selenium + TestNG
+- Implemented Page Object Model for better maintainability
+- Used Maven for build management
+- Created reusable base classes and utility methods
+- Executed regression test suites
 
-### 🔹 API Automation Framework – Rest Assured
-- Designed structured API framework
-- Implemented request & response validations
-- Used Maven Surefire Plugin for execution
-- Automated CRUD operations
+### 🔹 API Testing
+- Performed API testing using Postman
+- Validated request and response data
+- Automated basic API scenarios
 
 ### 🔹 Manual Testing Project
-- Created Test Plan & Test Cases
-- Prepared RTM
-- Logged detailed bug reports
-- Performed Functional & Regression testing
+- Prepared Test Plan and Test Cases
+- Created RTM
+- Logged and tracked defects
+- Performed Functional and Regression Testing
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (www.linkedin.com/in/ajithshiva)
+- LinkedIn: https://www.linkedin.com/in/ajithshiva
 
 ---
 
-⭐ Always learning and improving in Software Testing & Automation.
+Always learning and improving in Software Testing and Automation.
