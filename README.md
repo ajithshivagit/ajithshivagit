@@ -26,7 +26,7 @@ Focused on delivering high-quality, reliable, and well-tested applications.
 - Page Object Model (POM)
 - Maven
 - Data-Driven Testing
-- Basic Framework Design
+- Framework Design
 
 ### 🔹 API Testing
 - Postman
