@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ajith Shiva Devarakonda
 
 ## 👨‍💻 About Me
-Software Test Engineer with 1.8 years of experience in Manual Testing and Automation Testing.
+Software Test Engineer with 1.2 years of experience in Manual Testing and Automation Testing.
 
 Strong experience in Selenium WebDriver with Java and building structured automation frameworks using TestNG and Page Object Model (POM). Good understanding of SDLC, STLC, and Defect Life Cycle.
 
